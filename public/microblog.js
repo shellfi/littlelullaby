@@ -6,7 +6,7 @@
 // Enjoy!
 
 // Config
-var DisplayLatestPosts = 0;
+var DisplayLatestPosts = 1;
 var RSSLink = "microblog.xml";
 var MicroblogDivID = "microblog";
 var DisplaySubscribe = 1;
