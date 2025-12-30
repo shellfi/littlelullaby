@@ -6,8 +6,8 @@
 // Enjoy!
 
 // Config
-var DisplayLatestPosts = 1;
-var RSSLink = "microblog.xml";
+var DisplayLatestPosts = 0;
+var RSSLink = "https://littlelullaby.neocities.org/microblog.xml";
 var MicroblogDivID = "microblog";
 var DisplaySubscribe = 1;
 var SubscribeText = "Follow";

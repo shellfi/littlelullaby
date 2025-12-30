@@ -5,6 +5,7 @@
 	<link>https://littlelullaby.neocities.org/microblog.html</link>
   <description>Smaller posts where I just talk about random things</description>
 	<webMaster>Angela</webMaster>
+	<generator>@lullaby</generator>
 	<image>
 		<url>https://file.garden/ZRgh3nzfnhFDJvPp/pizzarilakkuma.jpg</url>
 		<title>angela's microblog</title>
@@ -14,7 +15,7 @@
   <item>
 		<guid isPermaLink="false">0</guid>
     <title>test post</title>
-    <description>hi ok ok ok</description>
+    <description></description>
     <link>https://littlelullaby.neocities.org/microblog#0</link>
     <pubDate>Tue, 30 Dec 25 14:51:50 +0000</pubDate>
   </item>
